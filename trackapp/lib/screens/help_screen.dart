@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import '../widgets/bottom_nav.dart'; // Ensure this is imported
+import '../widgets/bottom_nav.dart';
 
 class HelpScreen extends StatelessWidget {
   @override

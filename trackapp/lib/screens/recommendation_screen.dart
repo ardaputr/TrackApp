@@ -27,18 +27,6 @@ class _RecommendationScreenState extends State<RecommendationScreen> {
           "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png",
     },
     {
-      "title": "Detik.com",
-      "url": "https://www.detik.com",
-      "image":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Detikcom_Logo_2019.svg/1200px-Detikcom_Logo_2019.svg.png",
-    },
-    {
-      "title": "Kompas.com",
-      "url": "https://www.kompas.com",
-      "image":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kompas.com_Logo_2019.svg/2560px-Kompas.com_Logo_2019.svg.png",
-    },
-    {
       "title": "YouTube",
       "url": "https://www.youtube.com",
       "image":
